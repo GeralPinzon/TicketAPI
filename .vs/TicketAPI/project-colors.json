@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7268ae87-c907-43ae-88ef-09fbd2fdca78": {
+      "ProjectGuid": "7268ae87-c907-43ae-88ef-09fbd2fdca78",
+      "DisplayName": "TicketAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
